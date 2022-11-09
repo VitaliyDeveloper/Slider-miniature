@@ -1,0 +1,2 @@
+# Slider miniature
+ Слайдер
